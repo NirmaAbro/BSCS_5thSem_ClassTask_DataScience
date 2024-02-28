@@ -1,0 +1,9 @@
+word : appreciate
+Meaning :To admire greatly
+Antonyms : Depreciate
+Sentence : I was appreciate for my work 
+
+word : good
+meaning : buht acha
+antonyms: bad
+sentence : i am good in programming 
